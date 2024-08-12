@@ -11,5 +11,13 @@ You can donwload 3D model from here:
 
 Bill of materials:
 - Arduino Nano.
+- MT3608 DC Step Up.
+- 501540 300mAh 3.7V Lipo Battery.
+- 5mm RGB Common Anode LEDs x 6.
+- Red 3mm LED x 1.
+- Yellow 3mm LED x 1.
+- Blue/Clear Flashing 3mm LED x 1.
+- 8.4mm x 4.4mm Slide Switch x 1 (OS102011MS2QN1C).
 
 ## My Wiring Photo Tutorial
+https://flic.kr/s/aHBqjBC6GQ
