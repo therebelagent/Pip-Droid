@@ -6,6 +6,7 @@ You can donwload 3D model from here:
 
 ## Folders
 - Pip (Arduino Nano Source Code).
+- docs (Circuit Schematic)
 
 ## Circuit Schematic
 Pip-Droid-Circuit-Schematic.png
