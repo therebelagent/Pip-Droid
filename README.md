@@ -1,4 +1,6 @@
-# Pip Droid firmware for Arduino Nano.
+# Pip Droid from Star Wars: The Acolyte.
+Pip Droid's firmware for Arduino Nano.
+
 [![](https://live.staticflickr.com/65535/53893458260_434e0ee5e8_c.jpg)](https://cults3d.com/en/3d-model/gadget/pip-droid-from-star-wars-the-acolyte-tv-show)
 
 You can donwload 3D model from here:
