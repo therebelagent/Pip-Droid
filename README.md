@@ -8,6 +8,7 @@ You can donwload 3D model from here:
 - Pip (Arduino Nano Source Code).
 
 ## Circuit Schematic
+Pip-Droid-Circuit-Schematic.png
 
 Bill of materials:
 - Arduino Nano.
@@ -18,6 +19,7 @@ Bill of materials:
 - Yellow 3mm LED x 1.
 - Blue/Clear Flashing 3mm LED x 1.
 - 8.4mm x 4.4mm Slide Switch x 1 (OS102011MS2QN1C).
+- 12mm x 5.7mm Slide Switch x 1 (SS12F44G4).
 
 ## My Wiring Photo Tutorial
 https://flic.kr/s/aHBqjBC6GQ
