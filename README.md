@@ -10,6 +10,7 @@ You can donwload 3D model from here:
 
 ## Folders
 - Pip (Arduino Nano Source Code).
+- PipFunctionalNeckTest (Experimental Arduino Nano Source Code)
 - docs (Circuit Schematic)
 
 ## Circuit Schematic
