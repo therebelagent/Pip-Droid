@@ -34,6 +34,7 @@ https://flic.kr/s/aHBqjBC6GQ
 -----
 
 # Pip Droid's firmware for Arduino Nano: Functional Neck Test.
+![](https://github.com/therebelagent/Pip-Droid/blob/main/docs/animation/VID_20240926_104249_01.gif)
 
 ## Folders
 - PipFunctionalNeckTest (Experimental Arduino Nano Source Code)
