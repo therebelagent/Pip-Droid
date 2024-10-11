@@ -1,6 +1,7 @@
 # Pip Droid from Star Wars: The Acolyte.
 
 [![](https://live.staticflickr.com/65535/53893458260_434e0ee5e8_c.jpg)](https://cults3d.com/en/3d-model/gadget/pip-droid-from-star-wars-the-acolyte-tv-show)
+
 You can donwload 3D model from here:
 [https://cults3d.com/en/3d-model/gadget/the-bad-batch-tech-s-datapad](https://cults3d.com/en/3d-model/gadget/pip-droid-from-star-wars-the-acolyte-tv-show)
 
@@ -44,3 +45,6 @@ Bill of materials:
 - MG90S or SG90 Servo Motor x 2.
 - KCD1-11 13.5 x 9 mm 2/3 pin ON - OFF Rocker Switch.
 - 100uf 25V Capacitor.
+
+## My Wiring Photo Tutorial
+https://flic.kr/s/aHBqjBJqSy
