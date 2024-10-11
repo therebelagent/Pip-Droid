@@ -5,6 +5,8 @@
 You can donwload 3D model from here:
 [https://cults3d.com/en/3d-model/gadget/the-bad-batch-tech-s-datapad](https://cults3d.com/en/3d-model/gadget/pip-droid-from-star-wars-the-acolyte-tv-show)
 
+-----
+
 # Pip Droid's firmware for Arduino Nano: Resetting to factory settings animation.
 ![](https://github.com/therebelagent/Pip-Droid/blob/main/docs/animation/VID-20240815-WA0001.gif)
 
