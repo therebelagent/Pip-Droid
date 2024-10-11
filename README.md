@@ -29,6 +29,8 @@ Bill of materials:
 ## My Wiring Photo Tutorial
 https://flic.kr/s/aHBqjBC6GQ
 
+-----
+
 # Pip Droid's firmware for Arduino Nano: Functional Neck Test.
 
 ## Folders
