@@ -1,5 +1,5 @@
 # Pip Droid from Star Wars: The Acolyte.
-Pip Droid's firmware for Arduino Nano: Resetting to factory settings animation.
+# Pip Droid's firmware for Arduino Nano: Resetting to factory settings animation.
 
 ![](https://github.com/therebelagent/Pip-Droid/blob/main/docs/animation/VID-20240815-WA0001.gif)
 
@@ -29,11 +29,11 @@ Bill of materials:
 ## My Wiring Photo Tutorial
 https://flic.kr/s/aHBqjBC6GQ
 
-# Pip Droid from Star Wars: The Acolyte.
-Pip Droid's firmware for Arduino Nano: Functional Neck Test.
+# Pip Droid's firmware for Arduino Nano: Functional Neck Test.
 
 ## Folders
 - PipFunctionalNeckTest (Experimental Arduino Nano Source Code)
+- docs (Circuit Schematic)
 
 ## Circuit Schematic
 Pip-Droid-Functional-Neck-Circuit-Schematic.png
