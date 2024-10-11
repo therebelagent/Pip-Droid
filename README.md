@@ -10,7 +10,6 @@ You can donwload 3D model from here:
 
 ## Folders
 - Pip (Arduino Nano Source Code).
-- PipFunctionalNeckTest (Experimental Arduino Nano Source Code)
 - docs (Circuit Schematic)
 
 ## Circuit Schematic
@@ -29,3 +28,20 @@ Bill of materials:
 
 ## My Wiring Photo Tutorial
 https://flic.kr/s/aHBqjBC6GQ
+
+# Pip Droid from Star Wars: The Acolyte.
+Pip Droid's firmware for Arduino Nano: Functional Neck Test.
+
+## Folders
+- PipFunctionalNeckTest (Experimental Arduino Nano Source Code)
+
+## Circuit Schematic
+Pip-Droid-Functional-Neck-Circuit-Schematic.png
+
+Bill of materials:
+- Arduino Nano.
+- 803040 3.7V 1000mAh LIPO Battery.
+- MT3608 DC Step Up.
+- MG90S or SG90 Servo Motor x 2.
+- KCD1-11 13.5 x 9 mm 2/3 pin ON - OFF Rocker Switch.
+- 100uf 25V Capacitor.
