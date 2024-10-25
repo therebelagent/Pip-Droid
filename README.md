@@ -53,3 +53,13 @@ Bill of materials:
 
 ## My Wiring Photo Tutorial
 https://flic.kr/s/aHBqjBJqSy
+
+## Head Knob Update
+
+Bill of materials:
+- 28AWG wires x 3.
+- SG90 or HK-5320 Servo Motor.
+
+## My Wiring Photo Tutorial
+https://flic.kr/s/aHBqjBPocr
+
