@@ -56,6 +56,9 @@ https://flic.kr/s/aHBqjBJqSy
 
 ## Head Knob Update
 
+## Circuit Schematic
+Pip-Droid-Functional-Neck-Knob-Circuit-Schematic.png
+
 Bill of materials:
 - 28AWG wires x 3.
 - SG90 or HK-5320 Servo Motor.
