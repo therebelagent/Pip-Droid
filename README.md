@@ -66,3 +66,18 @@ Bill of materials:
 ## My Wiring Photo Tutorial
 https://flic.kr/s/aHBqjBPocr
 
+## Head LEDs Update
+
+## Circuit Schematic
+Pip-Droid-Functional-Neck-Knob-LEDs-Circuit-Schematic.png
+
+Bill of materials:
+- 390 Ohms resistors x 5.
+- 3 mm Water Clear LEDs x 6.
+- 3 mm Blue Flashing LED.
+- 3 mm Yellow LED.
+- 3 mm Red LED.
+
+## My Wiring Photo Tutorial
+https://flic.kr/s/aHBqjBQb5a
+
