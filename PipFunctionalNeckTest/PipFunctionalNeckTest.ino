@@ -34,8 +34,11 @@ int const HEAD_KNOB_FASTEST_SPEED_LIMIT = 200;
 void setup()
 {
   HeadKnobServo.attach(HEAD_KNOB_SERVO_PIN);
-  PanServo.attach(PAN_SERVO_PIN, PAN_STARTUP_DEGREE_ANGLE_POSITION);
+  delay(1000);
   TiltServo.attach(TILT_SERVO_PIN);
+  delay(1000);
+  PanServo.attach(PAN_SERVO_PIN, PAN_STARTUP_DEGREE_ANGLE_POSITION);
+  delay(1000);
 }
 
 void loop()
