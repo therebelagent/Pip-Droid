@@ -38,7 +38,6 @@ void setup()
   TiltServo.attach(TILT_SERVO_PIN);
   delay(1000);
   PanServo.attach(PAN_SERVO_PIN, PAN_STARTUP_DEGREE_ANGLE_POSITION);
-  delay(1000);
 }
 
 void loop()
