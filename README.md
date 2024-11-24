@@ -50,7 +50,7 @@ Bill of materials:
 - MT3608 DC Step Up.
 - MG90S or SG90 Servo Motor x 2.
 - KCD1-11 13.5 x 9 mm 2/3 pin ON - OFF Rocker Switch.
-- 100uf 25V Capacitor.
+- 470uf 25V Capacitor.
 
 ## My Wiring Photo Tutorial
 https://flic.kr/s/aHBqjBJqSy
