@@ -6,7 +6,7 @@ Only screen accurate 3d model that could be turned into a functional Droid.
 You can donwload 3D model from here:
 [https://cults3d.com/en/3d-model/gadget/the-bad-batch-tech-s-datapad](https://cults3d.com/en/3d-model/gadget/pip-droid-from-star-wars-the-acolyte-tv-show)
 
-or [https://cults3d.com/en/3d-model/gadget/pip-droid-docking-station-from-star-wars-the-acolyte-tv-show] (https://cults3d.com/en/3d-model/gadget/pip-droid-docking-station-from-star-wars-the-acolyte-tv-show)
+or [https://cults3d.com/en/3d-model/gadget/pip-droid-docking-station-from-star-wars-the-acolyte-tv-show](https://cults3d.com/en/3d-model/gadget/pip-droid-docking-station-from-star-wars-the-acolyte-tv-show)
 
 -----
 
